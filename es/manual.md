@@ -2,39 +2,39 @@ MANUAL AGROGUIA
 ===============
 ## Introducción
 La aplicación Agroguia está diseñada para facilitar las labores en las cuales el ancho de trabajo no permita trabajar con referencias visuales o de otro tipo. Este tipo de labores, tales como el abonado o el fumigado, se podrán realizar sin necesidad de referencias visuales (como marcas de espuma), sin instalaciones ni manejo complejos, en cualquier tipo de condiciones (nocturnas, diurnas,...), con cualquier tipo de maquinaria o apero y sin ningún tipo de instalación de sensor o configuración especial.
-## COMPONENTES DEL EQUIPO
-![Tablet](C:\Users\Laura\Documents\GitHub\user_manual\images\tablet.png "Tablet")
-![GPS](C:\Users\Laura\Documents\GitHub\user_manual\images\gps.png "GPS")
-![Soporte](C:\Users\Laura\Documents\GitHub\user_manual\images\soporte.png "Soporte")
-##ALGUNOS DETALLES IMPORTANTES
-![On/off y Reset](C:\Users\Laura\Documents\GitHub\user_manual\images\on_off_reset.png "On/off y Reset")
+##Componentes del equipo
+![Tablet](../images/tablet.png "Tablet")
+![GPS](../images/gps.png "GPS")
+![Soporte](../images/soporte.png "Soporte")
+##Algunos detalles importantes
+![On/off y Reset](../images/on_off_reset.png "On/off y Reset")
 
 ##Instalación
 La tablet se colocará en el interior del vehículo, en un lugar visible para el agricultor sobre el soporte de doble ventosa. 
 Para obtener una precisión máxima durante el trabajo, hay que tener ciertas precauciones a la hora de colocar el GPS. Se debe intentar que no esté cerca de aparatos de aire acondicionado o de sistemas que provoquen fuertes vibraciones, imanes, etc.  Debe ir lo más adelante posible, encima de la cabina, procurando que no tenga inclinación, es decir, nivelado respecto al suelo.
-![Ejemplo colocación](C:\Users\Laura\Documents\GitHub\user_manual\images\place_gps.png "Ejemplo colocación GPS")
-![Ejemplo colocación](C:\Users\Laura\Documents\GitHub\user_manual\images\place_gps2.png "Ejemplo colocación GPS")
+![Ejemplo colocación](../images/place_gps.png "Ejemplo colocación GPS")
+![Ejemplo colocación](../images/place_gps2.png "Ejemplo colocación GPS")
+
 ##Uso de la aplicación
 El primer paso es arrancar el programa. En la pantalla principal aparecerá el icono de Agroguia sobre el que hay que pulsar.
-![Escritorio](C:\Users\Laura\Documents\GitHub\user_manual\images\desktop.png "Escritorio")
+![Escritorio](../images/desktop.png "Escritorio")
 Seguidamente tendremos la pantalla inicial del programa.
-![Pantalla inicial](C:\Users\Laura\Documents\GitHub\user_manual\images\main.png "Pantalla inicial")
-A continuación hay que introducir el ancho de trabajo en metros. Para ello basta con utilizar los botones “+” y “-“. El ancho de trabajo debe coincidir con el ancho del apero usado o los metros de alcance del mismo.
+![Pantalla inicial](../images/main.png "Pantalla inicial")
+A continuación hay que introducir el ancho de trabajo en metros. Para ello basta utilizar los botones “+” y “-“. El ancho de trabajo debe coincidir con el ancho del apero usado o los metros de alcance del mismo.
 En esta pantalla también tenemos los botones “Empezar” y “Cargar” que se explican en un apartado posterior.
-Después de introducir el ancho del apero, el siguiente paso es iniciar el trabajo. Para ello hay que pulsar en el botón Empezar. 
-
-Nos aparecerá esta pantalla:
-
+Después de introducir el ancho del apero, el siguiente paso es iniciar el trabajo pulsando el botón "Empezar" y pasaremos a la siguiente pantalla:
+METER IMAGEN CON TRACTOR
 
 #Uso durante el trabajo
-Vamos a analizar la pantalla que aparecerá durante el trabajo.
+METER IMAGEN CON PANTALLA DEL TRACTOR CON ETIQUETAS PARA CADA BOTÓN
 
-Para que nos aparezcan los botones que se corresponden con las diferentes funcionalidades, basta con pulsar en cualquier parte de la pantalla y los botones se visualizarán durante unos segundos.
-Zoom:  Permiten acercase o alejarse  para ver con más detalle el trabajo.
-Comienzo/Pausa: Sirve para detener temporalmente el trabajo o reanudarlo si previamente se ha detenido. 
-AB: estos botones son para el modo de trabajo AB que será explicado a continuación.
-Borrar: borrar el trabajo realizado hasta ese momento y que no ha sido guardado previamente
-Guardar trabajo  Esta opción sirve para guardar un trabajo mientras se está realizando el tratamiento.
+Pausa: Sirve para detener el trabajo temporalmente. Se activa o desactiva pulsando en la zona centro de la pantalla. Sirve para seguir moviéndonos pero sin que marque como que vamos tratando.
+METER IMAGEN CON PAUSA
+ 
+A/B: estos botones son para el modo de trabajo AB que será explicado a continuación.
+Salir / Borrar / Guardar trabajo: Pulsando el siguiente botón tenemos tres opciones. Salir a la pantalla principal del programa, borrar y comenzar de nuevo o guardar el trabajo.
+![Salir](../images/working13_options.png "Salir")
+
 Área perimetral. Permite calcular el área de la parcela dando una vuelta alrededor de la misma. El procedimiento es pulsar al comenzar a dar la vuelta a la parcela y volver a pulsar una vez hayamos terminado. Entonces en la parte inferior derecha de la pantalla, nos sale una etiqueta indicando las hectáreas que tiene la parcela.
 NOTA IMPORTANTE: No es necesario que el tractor vaya por el borde de la parcela, lo que tiene que ir al borde es el apero que se lleve enganchado y cuya anchura hemos introducido al arrancar el programa. ‘Agroguía’, internamente, ya tiene en cuenta la distancia del GPS al extremo del apero. Si por el contrario, únicamente se desea medir la parcela sin realizar ningún trabajo, se puede introducir el ancho del tractor y dar la vuelta con la rueda al borde de la parcela.
 Salir: sale a la pantalla principal donde se introduce el ancho.
