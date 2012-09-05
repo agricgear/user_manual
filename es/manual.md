@@ -1,6 +1,6 @@
 MANUAL AGROGUIA
 ===============
-## INTRODUCCIÓN
+## Introducción
 La aplicación Agroguia está diseñada para facilitar las labores en las cuales el ancho de trabajo no permita trabajar con referencias visuales o de otro tipo. Este tipo de labores, tales como el abonado o el fumigado, se podrán realizar sin necesidad de referencias visuales (como marcas de espuma), sin instalaciones ni manejo complejos, en cualquier tipo de condiciones (nocturnas, diurnas,...), con cualquier tipo de maquinaria o apero y sin ningún tipo de instalación de sensor o configuración especial.
 ## COMPONENTES DEL EQUIPO
 ![Tablet](C:\Users\Laura\Documents\GitHub\user_manual\images\tablet.png "Tablet")
@@ -9,19 +9,18 @@ La aplicación Agroguia está diseñada para facilitar las labores en las cuales
 ##ALGUNOS DETALLES IMPORTANTES
 ![On/off y Reset](C:\Users\Laura\Documents\GitHub\user_manual\images\on_off_reset.png "On/off y Reset")
 
-##INSTALACIÓN
+##Instalación
 La tablet se colocará en el interior del vehículo, en un lugar visible para el agricultor sobre el soporte de doble ventosa. 
 Para obtener una precisión máxima durante el trabajo, hay que tener ciertas precauciones a la hora de colocar el GPS. Se debe intentar que no esté cerca de aparatos de aire acondicionado o de sistemas que provoquen fuertes vibraciones, imanes, etc.  Debe ir lo más adelante posible, encima de la cabina, procurando que no tenga inclinación, es decir, nivelado respecto al suelo.
 ![Ejemplo colocación](C:\Users\Laura\Documents\GitHub\user_manual\images\place_gps.png "Ejemplo colocación GPS")
 ![Ejemplo colocación](C:\Users\Laura\Documents\GitHub\user_manual\images\place_gps2.png "Ejemplo colocación GPS")
-##USO DE LA APLICACIÓN
-Al encender la tablet lo primero que hay que hacer es debloquearla. Aparecerá un círculo con un candado en su interior. Para desbloquear la pantalla hay que arrastrar con el dedo el candado hacia el exterior.
-Cuando se arranca Agroguia el primer paso es introducir el ancho de trabajo:
+##Uso de la aplicación
+El primer paso es arrancar el programa. En la pantalla principal aparecerá el icono de Agroguia sobre el que hay que pulsar.
+![Escritorio](C:\Users\Laura\Documents\GitHub\user_manual\images\desktop.png "Escritorio")
+Seguidamente tendremos la pantalla inicial del programa.
 ![Pantalla inicial](C:\Users\Laura\Documents\GitHub\user_manual\images\main.png "Pantalla inicial")
-Después hay pulsar encima del icono de Agroguia y pasamos la siguiente pantalla:
-
 A continuación hay que introducir el ancho de trabajo en metros. Para ello basta con utilizar los botones “+” y “-“. El ancho de trabajo debe coincidir con el ancho del apero usado o los metros de alcance del mismo.
-En esta pantalla también tenemos los botones “Guardar” y “Cargar” que se explican en un apartado posterior.
+En esta pantalla también tenemos los botones “Empezar” y “Cargar” que se explican en un apartado posterior.
 Después de introducir el ancho del apero, el siguiente paso es iniciar el trabajo. Para ello hay que pulsar en el botón Empezar. 
 
 Nos aparecerá esta pantalla:
@@ -60,7 +59,7 @@ Al comienzo de la línea se presiona el botón A. Al llegar al final de la prime
 
 La barra de dirección indica la dirección que se debe tomar para acercarse a la línea principal. El triángulo gris marca el centro y la barra superior se van llenando de color verde (izquierda) y rojo (derecha) si hay que girar a la izquierda o derecha respectivamente. Cuanto más llena esté de color, más nos estamos alejando de la línea principal. La situación ideal es que la barra esté blanca. 
 El trazado de estas líneas en la pantalla va a permitir hacer pasadas alternas, por ejemplo, lo cual permitirá una mayor facilidad a la hora de maniobrar con el tractor y el apero correspondiente. En cada pasada hay que ajustarse a la línea correspondiente a la pasada que se quiere realizar. Es importante que la línea cruce al tractor justo por el medio.
-## ACTUALIZACIÓN DEL PROGRAMA AGROGUIA
+##Actualización del programa
 Los pasos a seguir para actualizar el programa “Agroguia” son los siguientes:
 a) Una vez que la tablet está conectada a internet pulsar en la opción del menú (1) y a continuación seleccionar “buscar actualizaciones” (2).
 
@@ -79,7 +78,7 @@ A continuación se pulsa en (1) y para finalizar seleccionamos la nueva versión
 
 
 
-##PREGUNTAS FRECUENTES
+##Preguntas frecuentes
 Estoy trabajando y el programa se me sale a la pantalla del ancho.
 Eso es porque la antena ha perdido alimentación. Es posible que si la toma de alimentación no está bien fija, en algún momento se mueva y haga que no llegue corriente hasta el GPS. Compruebe que el alimentador está situado correctamente y tiene su piloto encendido.
 La tablet no responde
