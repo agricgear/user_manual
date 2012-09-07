@@ -86,6 +86,37 @@ Pinchamos encima del trabajo que nos interesa y pulsando en la flecha de menú, 
 ##Algunos detalles importantes
 ![On/off y Reset](../images/on_off_reset.png "On/off y Reset")
 ##Descargar trabajo en el ordenador
+Para poder tener los trabajos realizado en el ordenador se pueden seguir dos procedimientos:
+###1. A través del correo electrónico
+Debemos facilitar la cuenta de correo electrónico a una persona responsable de Agroguia. Esto sirve para que cada vez que la tablet se conecte a internet, automáticamente los trabajos son enviados al correo. Para poder analizar los trabajos, debemos abrir el correo en el que aparecerá un listado de los trabajos enviados junto con una dirección o enlace al que debemos ir. Una vez allí tendremos los trabajos guardados durante la labor y en el que aparecerán diferentes datos como son:
+- Nombre que se le dio al trabajo
+- Fecha y hora de comienzo y fin del trabajo
+- Datos de polígono y parcela correspondiente
+- Si se midió la parcela, las hectáreas de la misma
+- Si se midió alguna distancia
+- Área tratada
+- Área remontada
+- Tiempo utilizado para ese trabajo, etc
+![Página trabajo](../images/job2.png "Página trabajo")
+
+###2. Directamente desde la tablet
+Si no disponemos de cuenta de correo electrónico, la forma de poder ver los trabajos en el ordenador es a través del programa Google Earth. Es un programa gratuito que se puede descargar de la siguiente dirección: http://www.google.es/intl/es/earth/index.html
+El procedimiento que hay que seguir para descargar los trabajos en el ordenador es el siguiente:
+1. Conectar la tablet al ordenador mediante el cable de datos que se adjunta en la caja.
+2. Acceder al sistema de archivos de la tablet como si un dispositivo de almacenamiento más se tratara.
+![Abrir dispositivo](../images/abrir_dispositivo.png "Abrir dispositivo")
+3. Los trabajos se encuentran en la carpeta DCIM/Agroguia
+![DCIM](../images/dcim.png "DCIM")
+![Agroguia](../images/agroguia.png "Agroguia")
+4. Una vez dentro de la carpeta Agroguia podremos abrir cualquiera de los trabajos haciendo doble click sobre el que deseemos.
+![Archivo kml](../images/file_kml.png "Archivo kml")
+Podremos ver algo parecido a lo siguiente, donde podremos pinchar en las diferentes chinchetas para extraer la información:
+![Inicio parcela](../images/google_earth1.png "Inicio parcela")
+![Fin parcela](../images/google_earth2.png "Fin parcela")
+Nos aparecerán tantas chinchetas como datos hayamos recogido en el campo, es decir, si hemos medido áreas, distancias, fecha comienzo y fin de trabajo, etc.
+
+
+
 
 
 
