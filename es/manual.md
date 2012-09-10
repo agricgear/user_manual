@@ -82,8 +82,10 @@ A continuación nos saldrá un listado de todos los trabajos guardados:
 ![Listado de archivos](../images/load_menu.png "Listado de archivos")
 Pinchamos encima del trabajo que nos interesa y pulsando en la flecha de menú, accedemos a las diferentes opciones que tenemos sobre dicho trabajo:
 ![Opciones sobre archivo](../images/load_options.png "Opciones sobre archivo")
+
 ##Algunos detalles importantes
 ![On/off y Reset](../images/on_off_reset.png "On/off y Reset")
+
 ##Descargar trabajo en el ordenador
 Para poder tener los trabajos realizado en el ordenador se pueden seguir dos procedimientos:
 ###1. A través del correo electrónico
