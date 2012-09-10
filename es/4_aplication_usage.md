@@ -1,8 +1,9 @@
 #4. Uso de la aplicación
-1. El primer paso que hay que dar es arrancar el programa. En la pantalla principal aparecerá el icono de Agroguia sobre el que hay que pulsar.
+1. El primer paso es arrancar el programa. En la pantalla principal aparecerá el icono de Agroguia sobre el que hay que pulsar.
 
 ![Escritorio](../images/desktop.png "Escritorio")
-2. Seguidamente aparece la pantalla inicial del programa, donde hay que introducir el ancho de trabajo en metros. Para ello basta utilizar los botones “+” y “-“. El ancho de trabajo debe coincidir con el ancho del apero usado o los metros de alcance del mismo.
+
+2. Seguidamente aparece la pantalla inicial del programa, donde hay que introducir el ancho de trabajo en metros. Para ello basta utilizar los botones **+** y **-**. El ancho de trabajo debe coincidir con el ancho del apero usado o los metros de alcance del mismo.
 
 ![Pantalla inicial](../images/main.png "Pantalla inicial")
 
