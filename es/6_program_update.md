@@ -1,4 +1,4 @@
-##5. Actualización del programa
+##6. Actualización del programa
 Cada cierto tiempo, previo aviso a los clientes, sacaremos nuevas versiones con nuevas funcionalidades o mejoras. Los pasos a seguir para actualizar el programa **Agroguia** son los siguientes:
 
 1. Una vez que la tablet está conectada a internet (ver manual de *Conexión de la Tablet a Internet*), con **Agroguia** arrancado, pulsar en la tecla de menú que se indica en la siguiente imagen:
