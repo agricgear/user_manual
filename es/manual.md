@@ -1,7 +1,6 @@
 MANUAL AGROGUIA
 ===============
-## Introducción
-La aplicación Agroguia está diseñada para facilitar las labores agrícolas en las cuales el ancho de trabajo no permita trabajar con referencias visuales o de otro tipo. Este tipo de labores, tales como el abonado o el fumigado, se podrán realizar sin necesidad de referencias visuales (como marcas de espuma), sin instalaciones complejas, en cualquier tipo de condiciones (nocturnas, diurnas,...), con cualquier tipo de maquinaria o apero y sin ningún tipo de instalación de sensor o configuración especial.
+
 ##Componentes del equipo
 ![Tablet](../images/tablet.png "Tablet")
 ![GPS](../images/gps.png "GPS")
