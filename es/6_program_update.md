@@ -9,18 +9,11 @@ Cada cierto tiempo, previo aviso a los clientes, sacaremos nuevas versiones con 
 
 3. Pueden ocurrir 2 cosas:
 
-* Que la versión instalada en su tablet ya sea la última. En este caso se indicará en la pantalla "**no hay actualizaciones**".
+* Que la versión instalada en la tablet ya es la última. En este caso se indicará en la pantalla "**no hay actualizaciones**".
 
-![No hay actualizaciones](../images/no_update.png "No hay actualizaciones")
+	![No hay actualizaciones](../images/no_update.png "No hay actualizaciones")
 
-* Que haya otra versión más actual que la instalada. En este caso saldrá un mensaje en la pantalla indicando que se ha iniciado la descarga “iniciando descarga”. 
-
-![Iniciando descarga](../images/downloading.png "Iniciando descarga")
-
-4. A continuación se pulsa en (1) y para finalizar se selecciona la nueva versión (2). 
+* Que haya otra versión más actual que la instalada. En este caso saldrá un mensaje en la pantalla indicando que se ha iniciado la descarga “iniciando descarga”. A continuación se pulsa en [1] y se selecciona la nueva versión [2]. Finalmente hay seguir las instrucciones de instalación.
 
 ![Instalación actualización](../images/install_update.png "Instalación actualización")
 
-5. Finalmente hay seguir las instrucciones de instalación.
-
-![Instalando actualización](../images/install_update.png "Instalando actualización")
