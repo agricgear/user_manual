@@ -261,6 +261,6 @@ button::-moz-focus-inner {
 img {
     max-width: 960px;
     max-height: 400px;
-    text-align: vertical;
+    text-align: center;
     align: vertical;
 }

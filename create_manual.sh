@@ -8,5 +8,5 @@ echo "---" >> manual_es.md
 
 cat es/*.md >> manual_es.md
 
-jekyll
+jekyll build
 
